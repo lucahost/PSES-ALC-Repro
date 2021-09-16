@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PSES.ALC.Repro", "PSES.ALC.Repro\PSES.ALC.Repro.csproj", "{6FE2DB3E-2FA5-4942-B60B-FD5296FAF9A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSES.ALC.Dependency", "PSES.ALC.Dependency\PSES.ALC.Dependency.csproj", "{80561B87-28FA-4A32-BF74-D3BB61379823}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FE2DB3E-2FA5-4942-B60B-FD5296FAF9A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FE2DB3E-2FA5-4942-B60B-FD5296FAF9A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FE2DB3E-2FA5-4942-B60B-FD5296FAF9A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FE2DB3E-2FA5-4942-B60B-FD5296FAF9A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80561B87-28FA-4A32-BF74-D3BB61379823}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80561B87-28FA-4A32-BF74-D3BB61379823}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80561B87-28FA-4A32-BF74-D3BB61379823}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80561B87-28FA-4A32-BF74-D3BB61379823}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B80DFB1-B8B5-41B5-8155-49A7F417C807}
+	EndGlobalSection
+EndGlobal
